@@ -1,0 +1,24 @@
+body {
+    background-color:lightblue;
+}
+
+p {
+    font-size:20px;
+}
+
+img {
+    border-style:solid;
+}
+
+#nav {
+    background-color:salmon;
+    
+}
+a {
+    border:1px black solid;
+    padding:2px;
+    margin:2px;
+}
+h1 {
+    color:Green;
+}
