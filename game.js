@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-  </head>
-  <body>
-    <canvas width="400" height="480"></canvas>
-    <script src="https://cdn.codehs.com/chs-js-lib/0.2.21/dist/chs.iife.js"></script>
-    <script>
-        const CENTER_X=getWidth() / 2;
+const CENTER_X=getWidth() / 2;
 const CENTER_Y=getHeight() / 2;
 const RADIUS=120;
 const FONT="48pt Arial";
@@ -63,6 +55,3 @@ function description(){
 }
 
 main();
-    </script>
-  </body>
-</html>
